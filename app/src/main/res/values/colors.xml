@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E1724F</color>
+    <color name="colorPrimaryDark">#E1724F</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="nav_normal">#000000</color>
+    <color name="fb_normal">#80000000</color>
+    <color name="fb_pressed">#99667EDE</color>
+</resources>

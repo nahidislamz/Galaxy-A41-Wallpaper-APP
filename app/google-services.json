@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "934738816334",
+    "firebase_url": "https://mm-wallpaper.firebaseio.com",
+    "project_id": "mm-wallpaper",
+    "storage_bucket": "mm-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934738816334:android:ad299318576d479066c21f",
+        "android_client_info": {
+          "package_name": "com.dragonlfy.mmwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934738816334-acrpr38ph3avodf3r5qmgrps13786vmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dragonlfy.mmwallpaper",
+            "certificate_hash": "dbcca5efb6268a2178eeb3838878c5b852bb6307"
+          }
+        },
+        {
+          "client_id": "934738816334-4nk1ik5cti12o6efcaanpr0lddlsqulk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdK3jrAcFv_WcV4jaAMJofI7DCZ2-GhXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934738816334-4nk1ik5cti12o6efcaanpr0lddlsqulk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934738816334:android:a83f91ec41fb96c166c21f",
+        "android_client_info": {
+          "package_name": "com.nahidislamz.iphone12promax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934738816334-4nk1ik5cti12o6efcaanpr0lddlsqulk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdK3jrAcFv_WcV4jaAMJofI7DCZ2-GhXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934738816334-4nk1ik5cti12o6efcaanpr0lddlsqulk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934738816334:android:34021ee034e97d7766c21f",
+        "android_client_info": {
+          "package_name": "com.nahidislamz.samsunggalaxym41wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934738816334-kf1a8b3vn214dg18mgce69uoq9igci29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nahidislamz.samsunggalaxym41wallpaper",
+            "certificate_hash": "a301cebf98cc4ded7f575ea0d25140c35a34c29d"
+          }
+        },
+        {
+          "client_id": "934738816334-4nk1ik5cti12o6efcaanpr0lddlsqulk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdK3jrAcFv_WcV4jaAMJofI7DCZ2-GhXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934738816334-4nk1ik5cti12o6efcaanpr0lddlsqulk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

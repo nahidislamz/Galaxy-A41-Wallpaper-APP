@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViewPagerActivity">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.getbase.floatingactionbutton.FloatingActionsMenu
+        android:id="@+id/multiple_actions_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        app:fab_addButtonSize="mini"
+        app:fab_addButtonColorNormal="@color/fb_normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/download"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@color/fb_normal"
+            app:fab_colorPressed="@color/fb_pressed"
+            app:fab_icon="@drawable/ic_download"/>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/setwallpaper"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@color/fb_normal"
+            app:fab_colorPressed="@color/fb_pressed"
+            app:fab_icon="@drawable/ic_wallpaper"
+            />
+
+    </com.getbase.floatingactionbutton.FloatingActionsMenu>
+</androidx.constraintlayout.widget.ConstraintLayout>
